@@ -1,4 +1,4 @@
-# Image Classification and Object Detection to detect Traffic Rules Violations
+# Image Classification and Object Detection for Traffic Rules Violation Detection
 
 ## Overview
 
